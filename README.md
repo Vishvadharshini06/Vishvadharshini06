@@ -9,7 +9,7 @@
 
 - 📫 reach me **vishvadharshinia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Rt21V06IuLArBnAohkRDGCAxbr5_EaU1/view?usp=sharing](https://drive.google.com/file/d/1Rt21V06IuLArBnAohkRDGCAxbr5_EaU1/view?usp=sharing)
+- 📄 Know about my experiences (https://vishvadharshini-portfolio.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny**
 
